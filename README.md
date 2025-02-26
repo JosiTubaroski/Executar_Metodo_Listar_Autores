@@ -8,5 +8,7 @@
 
 # Será aberta a URL do swagger para os testes
 
+<img src="https://github.com/JosiTubaroski/Executar_Metodo_Listar_Autores/blob/main/img/02_Abertura_Swagger.png"/>
+
 
 
