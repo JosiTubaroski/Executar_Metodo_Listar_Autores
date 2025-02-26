@@ -10,5 +10,11 @@
 
 <img src="https://github.com/JosiTubaroski/Executar_Metodo_Listar_Autores/blob/main/img/02_Abertura_Swagger.png"/>
 
+# Testar o metódo GET do end-point: /api/Autor/ListarAutores
 
+<img src="https://github.com/JosiTubaroski/Executar_Metodo_Listar_Autores/blob/main/img/03_Execute_Metodo.png"/>
+
+<img src="https://github.com/JosiTubaroski/Executar_Metodo_Listar_Autores/blob/main/img/04_Server_Response.png"/>
+
+<img src="https://github.com/JosiTubaroski/Executar_Metodo_Listar_Autores/blob/main/img/05_Code_Response.png"/>
 
